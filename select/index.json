@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "Live Like Summer",
+  "base_artist": "Skaai、KM",
+  "createdAt": "2026-03-22T10:28:34.714558Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Live Like Summer",
+      "artist": "Skaai",
+      "has_synced": false,
+      "path": "select/01_Live_Like_Summer_Skaai.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Live Like Summer",
+      "artist": "Skaai、KM",
+      "has_synced": false,
+      "path": "select/localdb_01_Live_Like_Summer_Skaai、KM.txt",
+      "repo_name": "s823aI6Y4Hc"
+    }
+  ]
+}
